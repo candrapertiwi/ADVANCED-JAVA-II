@@ -1,0 +1,2 @@
+module latihan9 {
+}
